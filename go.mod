@@ -10,5 +10,4 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/stretchr/testify v1.1.5-0.20170601210322-f6abca593680
 	golang.org/x/crypto v0.0.0-20170613210332-850760c427c5
-	launchpad.net/gocheck v0.0.0-20140225173054-000000000087 // indirect
 )
